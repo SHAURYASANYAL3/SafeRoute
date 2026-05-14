@@ -1,0 +1,16 @@
+{
+  "name": "SafeRoute",
+  "short_name": "SafeRoute",
+  "description": "Adaptive student commute safety orchestration.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#eff6ff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
